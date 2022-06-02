@@ -1,0 +1,2 @@
+# cinsiyet_tahmini
+Bu çalışmada,Veri seti olarak 3168 erkek ve kadın ses örneği kullanılmıştır.Bunların 1584 erkek ve 1584 kadın ses örneğidir. Öncelikle veri incelenmiş boş satır varmı diye kontrol edilmiştir. Daha sonra verimiz test ve train olarak bölünmüştür. Bölünen veri testimiz scaler işlemine sokularak normalizasyon işlemi gerçekleştirilmiştir. Daha sonra iki sınıflı cinsiyet tanıma uygulamasını konvolüsyonel sinir ağına sokulmuş ve % 95 lik başarılı bir sonuç alınmıştır.
